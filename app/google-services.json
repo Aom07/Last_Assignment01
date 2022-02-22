@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903963274047",
+    "project_id": "thanawat-fa68a",
+    "storage_bucket": "thanawat-fa68a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903963274047:android:674539bf96987fe7ce418a",
+        "android_client_info": {
+          "package_name": "com.example.last_assignment01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903963274047-lvllamv2tt0dqsf23l27nqcqfsrslp4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3Xjj5N4Y7gMG56wJBJ0RpMUGcF-pTdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903963274047-lvllamv2tt0dqsf23l27nqcqfsrslp4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
